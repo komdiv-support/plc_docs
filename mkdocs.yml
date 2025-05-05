@@ -24,10 +24,11 @@ theme:
 
 nav:
   - <span style="font-weight:bold;">БАГЕТ ПЛК 1</span>: 
-    - Описание работы:
+    - Описание работы: 
         - Общие сведения: plc1/main/index.md
         - Типы модулей: plc1/main/structure.md
-        - Потребляемая мощность модулей: plc1/main/power_cons.md
+        - Потребляемая мощность: plc1/main/power_cons.md
+        - Монтаж на DIN-рейку: plc1/main/din_rail.md
     - Модули: 
       - Модули процессорные БТ75-20х:
           - БТ75-201:  plc1/hardware/bt75-201.md
@@ -60,7 +61,7 @@ nav:
     #      - БТ76-401:  plc2/hardware/bt76-401.md
     #      - БТ76-402:  plc2/hardware/bt76-402.md
 
-  - <span style="font-weight:bold;">СРиО<span>:
+  - <span style="font-weight:bold;">Baget.IDE<span>:
     - Назначение программы: srio/index.md
       
 
