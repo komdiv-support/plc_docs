@@ -1,0 +1,20 @@
+:root > * {
+    --md-primary-fg-color:        #88A3B2;
+    --md-typeset-mark-color:      hsla(200, 21%, 62%, 0.06);
+}
+body {
+    zoom: 90%; /* Уменьшает масштаб всей страницы на 10% */
+}
+body {
+    font-weight: 300 !important; /* Тоньше стандартного */
+  }
+  /* .md-typeset h1 { font-weight: 400 !important; } */
+  /* .md-typeset h2 { font-weight: 300 !important; } */
+/* .md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 5px;
+} */
+
+    
+   
